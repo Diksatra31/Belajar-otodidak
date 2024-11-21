@@ -1,2 +1,2 @@
 # Belajar-Otodidak
-File File Tersebut Merupakan hasil dari Belajar Otodidak Saya
+These files are the result of my own learning.
